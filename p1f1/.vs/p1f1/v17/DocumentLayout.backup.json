@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\p1f1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25097914-D7C9-4BB2-ABE1-60B16D767D91}|..\\p1f2\\p1f2.vcxproj|G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\p1f2\\p1f2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA41074-2ECD-473C-B454-DC7D502C8783}|p1f1\\p1f1.vcxproj|G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\p1f1\\p1f1\\p1f1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA41074-2ECD-473C-B454-DC7D502C8783}|p1f1\\p1f1.vcxproj|solutionrelative:p1f1\\p1f1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E86741-9188-43C9-A40B-C5A8982904F6}|..\\Project1\\Project1\\Project1.vcxproj|G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Project1\\Project1\\Project 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project 1.cpp",
+              "DocumentMoniker": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Project1\\Project1\\Project 1.cpp",
+              "RelativeDocumentMoniker": "..\\Project1\\Project1\\Project 1.cpp",
+              "ToolTip": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Project1\\Project1\\Project 1.cpp",
+              "RelativeToolTip": "..\\Project1\\Project1\\Project 1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T18:22:17.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "p1f1.cpp",
+              "DocumentMoniker": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\p1f1\\p1f1\\p1f1.cpp",
+              "RelativeDocumentMoniker": "p1f1\\p1f1.cpp",
+              "ToolTip": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\p1f1\\p1f1\\p1f1.cpp",
+              "RelativeToolTip": "p1f1\\p1f1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T10:20:44.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p1f2.cpp",
+              "DocumentMoniker": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\p1f2\\p1f2.cpp",
+              "RelativeDocumentMoniker": "..\\p1f2\\p1f2.cpp",
+              "ToolTip": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\p1f2\\p1f2.cpp",
+              "RelativeToolTip": "..\\p1f2\\p1f2.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T18:22:57.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
